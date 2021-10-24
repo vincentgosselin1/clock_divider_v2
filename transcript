@@ -1,0 +1,40 @@
+# Compile of clock_divider_v2.vhd was successful.
+# Compile of tb_clock_divider_v2.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# vsim work.tb_clock_divider_v2 -debugdb 
+# Start time: 21:28:49 on Oct 23,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_clock_divider_v2(rtl)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.clock_divider_v2(rtl)
+# ** Note: (vsim-8716) Reusing existing debug database vsim.dbg.
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Vincent Gosselin  Hostname: DESKTOP-9PMV8VL  ProcessID: 8296
+#           Attempting to use alternate WLF file "./wlftdbwxb2".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftdbwxb2
+# Compile of clock_divider_v2.vhd was successful.
+# Compile of tb_clock_divider_v2.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# End time: 21:29:37 on Oct 23,2021, Elapsed time: 0:00:48
+# Errors: 0, Warnings: 5
+# vsim work.tb_clock_divider_v2 -debugdb 
+# Start time: 21:29:37 on Oct 23,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_clock_divider_v2(rtl)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.clock_divider_v2(rtl)
+# ** Note: (vsim-8900) Creating design debug database vsim.dbg.
+# It appears vopt was not run with -debugdb option on this design.
+# Advanced Causality and Schematic debug features will not be available.
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Vincent Gosselin  Hostname: DESKTOP-9PMV8VL  ProcessID: 8296
+#           Attempting to use alternate WLF file "./wlftahxjy8".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftahxjy8

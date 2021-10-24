@@ -1,0 +1,7 @@
+--tb_clock_divider_v2
+
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity tb_clock_divider_v2 is
+end tb_clock_divider_v2;
+
